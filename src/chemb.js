@@ -8,4 +8,4 @@ function Badar(props){
         </div>
     )
 }
-export default chemb
+export default Badar;
