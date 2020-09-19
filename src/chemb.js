@@ -4,7 +4,8 @@ function Badar(props){
         <div>
             <h1>This is {props.name_one}</h1>
             <hr/>
-    <h1>This is {props.name_two}</h1>
+            <h1>This is {props.name_two}</h1>
+            <hr/>
         </div>
     )
 }

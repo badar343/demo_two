@@ -1,6 +1,6 @@
 import React from 'react';
 import './App.css';
-import Badar from 'chemb.js';
+import Badar from './chemb.js';
 function App() {
   return (
     <div className="App">
